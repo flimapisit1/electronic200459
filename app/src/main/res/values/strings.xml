@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">" Electronics"</string>
+    <string name="Electronics">Electronics</string>
+    <string name="Titlt">Electronics</string>
+    <string name="aboutme">About Me</string>
 </resources>
+
+
